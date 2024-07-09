@@ -1,0 +1,12 @@
+com.example.api_github.app-core-1.6.0-0 C:\Users\sathy\.gradle\caches\transforms-3\13b99ae8a01b607162131804fe0199df\transformed\core-1.6.0\res
+com.example.api_github.app-jetified-annotation-experimental-1.1.0-1 C:\Users\sathy\.gradle\caches\transforms-3\1659c08c41922602793c6edac261dd37\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.api_github.app-jetified-window-java-1.0.0-beta04-2 C:\Users\sathy\.gradle\caches\transforms-3\47cc8a33b8a3be2bef8ce519e57a513a\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.api_github.app-jetified-window-1.0.0-beta04-3 C:\Users\sathy\.gradle\caches\transforms-3\52ef1e0113dddd55db3c0607c58533e9\transformed\jetified-window-1.0.0-beta04\res
+com.example.api_github.app-debug-4 D:\Flutter\api_github\android\app\src\debug\res
+com.example.api_github.app-main-5 D:\Flutter\api_github\android\app\src\main\res
+com.example.api_github.app-pngs-6 D:\Flutter\api_github\build\app\generated\res\pngs\debug
+com.example.api_github.app-resValues-7 D:\Flutter\api_github\build\app\generated\res\resValues\debug
+com.example.api_github.app-rs-8 D:\Flutter\api_github\build\app\generated\res\rs\debug
+com.example.api_github.app-mergeDebugResources-9 D:\Flutter\api_github\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.api_github.app-mergeDebugResources-10 D:\Flutter\api_github\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.api_github.app-merged_res-11 D:\Flutter\api_github\build\app\intermediates\merged_res\debug
